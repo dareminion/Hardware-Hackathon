@@ -1,8 +1,10 @@
 # Hardware-Hackathon
+Group 14
 
 # Team Members:
-Noah
-Darren
-Josef
-Seoyoon
+Noah <br />
+Darren <br />
+Josef <br />
+Seoyoon <br />
+Utkarsh <br />
 Matthew
